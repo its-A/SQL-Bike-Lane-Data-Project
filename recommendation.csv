@@ -1,0 +1,61 @@
+street,safety_rating,average_safety_rating,recommendation
+18th,4.70,4.70,"Leave As-Is"
+18th,4.70,4.70,"Leave As-Is"
+2nd,3.20,3.45,"Improvements Needed"
+2nd,3.70,3.45,"Improvements Needed"
+Addison,3.60,3.75,"Improvements Needed"
+Addison,3.90,3.75,"Improvements Needed"
+Altin,2.00,2.00,Remove
+Altin,2.00,2.00,Remove
+Beaver,2.50,2.30,Remove
+Beaver,2.10,2.30,Remove
+Chestnut,4.00,4.25,"Leave As-Is"
+Chestnut,4.50,4.25,"Leave As-Is"
+Earp,4.10,4.30,"Leave As-Is"
+Earp,4.50,4.30,"Leave As-Is"
+Fieldcrest,4.90,4.80,"Leave As-Is"
+Fieldcrest,4.70,4.80,"Leave As-Is"
+Fred,4.50,4.60,"Leave As-Is"
+Fred,4.70,4.60,"Leave As-Is"
+Jameson,3.90,3.95,"Improvements Needed"
+Jameson,4.00,3.95,"Improvements Needed"
+Kensington,4.90,4.95,"Leave As-Is"
+Kensington,5.00,4.95,"Leave As-Is"
+Locust,5.00,4.90,"Leave As-Is"
+Locust,4.80,4.90,"Leave As-Is"
+Lombard,2.20,2.35,Remove
+Lombard,2.50,2.35,Remove
+Manning,2.00,2.35,Remove
+Manning,2.70,2.35,Remove
+Market,2.00,2.00,Remove
+Market,2.00,2.00,Remove
+MLK,4.00,3.95,"Improvements Needed"
+MLK,3.90,3.95,"Improvements Needed"
+Morris,4.70,4.55,"Leave As-Is"
+Morris,4.40,4.55,"Leave As-Is"
+Mouse,4.30,4.40,"Leave As-Is"
+Mouse,4.50,4.40,"Leave As-Is"
+Museum,3.40,3.60,"Improvements Needed"
+Museum,3.80,3.60,"Improvements Needed"
+Parker,2.30,2.15,Remove
+Parker,2.00,2.15,Remove
+Pine,5.00,4.95,"Leave As-Is"
+Pine,4.90,4.95,"Leave As-Is"
+Race,4.70,4.80,"Leave As-Is"
+Race,4.90,4.80,"Leave As-Is"
+Running,4.50,4.40,"Leave As-Is"
+Running,4.30,4.40,"Leave As-Is"
+South,4.30,4.50,"Leave As-Is"
+South,4.70,4.50,"Leave As-Is"
+Tasker,4.30,4.55,"Leave As-Is"
+Tasker,4.80,4.55,"Leave As-Is"
+Thomas,4.50,4.65,"Leave As-Is"
+Thomas,4.80,4.65,"Leave As-Is"
+Titan,3.80,3.85,"Improvements Needed"
+Titan,3.90,3.85,"Improvements Needed"
+Walnut,3.70,3.75,"Improvements Needed"
+Walnut,3.80,3.75,"Improvements Needed"
+Waverly,4.70,4.60,"Leave As-Is"
+Waverly,4.50,4.60,"Leave As-Is"
+York,4.40,4.45,"Leave As-Is"
+York,4.50,4.45,"Leave As-Is"
